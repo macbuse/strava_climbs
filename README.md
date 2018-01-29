@@ -9,4 +9,4 @@ in a hill climb race Fall 2017.
 - linear regression with scipy.stats
 - graphics with matplotlib
 
-[pacing]!(https://github.com/macbuse/strava_climbs/blob/master/pacing.png)
+![pacing](https://github.com/macbuse/strava_climbs/blob/master/pacing.png)
